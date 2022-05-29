@@ -15,9 +15,9 @@ module.exports = {
     logo: './logo.svg',
 
     // Repository 連結
-    repo: 'letswritetw/letswrite-vuepress-document',
+    repo: 'augustus-backup/letswrite-vuepress-document-hackmd',
     repoLabel: '本頁原始碼',
-    docsRepo: 'https://github.com/letswritetw/letswrite-vuepress-document',
+    docsRepo: 'https://github.com/augustus-backup/letswrite-vuepress-document-hackmd',
     docsDir: '',
     docsBranch: 'master',
     editLinks: true,
