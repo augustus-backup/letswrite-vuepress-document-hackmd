@@ -6,3 +6,4 @@ Let's Write 經營的社群。
 - [Facebook](https://www.facebook.com/letswrite.tw/)
 - [Instagram](https://www.instagram.com/letswrite.tw/)
 - [Twitter](https://twitter.com/letswrite_tw)
+- [Tumblr](https://www.tumblr.com/blog/lets-write-august)
